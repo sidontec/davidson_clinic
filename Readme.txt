@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: Medilab
-Template URL: https://bootstrapmade.com/medilab-free-medical-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+The Davidson Emanuel Pediatric Clinic Website repository contains the source code for a responsive and accessible site that showcases the clinic’s services, doctors’ profiles, appointment booking, contact information, and patient resources. Built with modern web technologies, the project follows best practices in SEO, security, and privacy, with an emphasis on a user-friendly design for parents and caregivers. Developers can clone the repository, install dependencies, configure environment variables, and run the development server locally. Deployment is supported on platforms like Vercel or Netlify, and contributions are welcome via feature branches and pull requests. The project maintains a clear structure, uses linting and formatting tools for code quality, and includes guidance for optimizing performance, ensuring accessibility, and integrating backend or third-party booking systems where needed.
